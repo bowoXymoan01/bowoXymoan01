@@ -1,6 +1,6 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **bowoXymoan01/bowoXymoan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua 👋
+
+Perkenalkan nama saya **Andre Wibowo**.<br>
+
+Saya seorang **Mahasiswa** Di politeknik Negeri Indramayu.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/andre-wibowo-731672347/) ku ya. <br>
+<p align="left">
+<a href="https://github.com/bowoXymoan01">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bowoXy&show_bowoXymoan01icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bowoXy&layoubowoXymoan01t=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
