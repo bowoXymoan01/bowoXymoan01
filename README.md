@@ -24,7 +24,7 @@ Saya seorang **Mahasiswa** Di politeknik Negeri Indramayu.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/andre-wibowo-731672347/) ku ya. <br>
 <p align="left">
 <a href="https://github.com/bowoXymoan01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bowoXy&show_bowoXymoan01icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bowoXy&layoubowoXymoan01t=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bowoXymoan01&show_bowoXymoan01icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bowoXymoan01&layoubowoXymoan01t=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
